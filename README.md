@@ -14,3 +14,7 @@ This is a Machine Learning Simple Linear Regression.
  ## data_preprocessing_template.py
  
   This file a python file whic is used for data preprocessing.
+  
+ ## simple_linear_regression.py
+ 
+  This is a Python file which is used for perform simple liner regression and predict price.
